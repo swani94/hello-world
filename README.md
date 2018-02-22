@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi There,
+
+I want to use GitHub to share my personal codes. 
